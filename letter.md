@@ -11,5 +11,5 @@ Re: Letter of Support for Hulden, Linquist, and Palmer, Digital Humanities Start
 
 To whom it may concern:
 
-I am writing to express my ardent support for this project. Digital Humanities has a relative paucity of intermediate level tools of this nature, and it's my belief that the accessibility of the proposed tool, the compelling nature of the source material, and perhaps most importantly the fact that the data will be available unencumbered to the public will result in a seminal scheme of wide use in the digital humanities and beyond. 
+I am writing to express my ardent support for the project "A Raw-Text Historical Newspaper Repository" by Hulden, Lingquist, and Palmer. Digital Humanities has a relative paucity of intermediate level tools of this nature, and it's my belief that the accessibility of the proposed tool, the compelling nature of the source material, and perhaps most importantly the fact that the data will be available unencumbered to the public will result in a seminal scheme of wide use in the digital humanities and beyond. 
 
